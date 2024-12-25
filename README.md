@@ -1,4 +1,4 @@
-# Water-Quality-and-Infrastructure-Analysis
+# Water-Quality-and-Infrastructure-Analysis (Using Power BI)
 
 This project focuses on analyzing water quality data, infrastructure improvements for water sources in various locations. The project uses Power BI to visualize the data, identify patterns and track project progress.
 
